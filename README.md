@@ -2,7 +2,7 @@
 DevSecOps is the practice of integrating security testing at every stage of the software development process. It includes tools and processes that encourage collaboration between developers, security specialists, and operation teams to build software that is both efficient and secure. 
 
 <div align="center">
-<img src="https://github.com/hosanna-david/DevSecOps-in-Action/blob/main/DevSecOps%20in%20Action.jpeg" align="center" style="width: 100%" />
+<img src="https://github.com/hosanna-david/DevSecOps-in-Action/blob/master/DevSecOps%20in%20Action.jpeg" align="center" style="width: 100%" />
 </div>  
 <br/>
 
